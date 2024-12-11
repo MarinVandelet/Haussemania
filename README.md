@@ -11,7 +11,7 @@
 ## Description
 Décrivez brièvement le travail réalisé et sa finalité.
 ## Conduite de projet
-- lien vers le document
+- lien vers le document de la [conduite de projet](https://docs.google.com/document/d/1AjD6pueok_Lw-YfDM3mWnlA_4YudlZAzODURNb8OpyY/edit?usp=sharing)
 - Méthode utilisée : [Scrum]
 - Répartition des tâches :
 - Étapes principales :
