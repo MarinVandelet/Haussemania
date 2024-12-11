@@ -1,6 +1,6 @@
 # Projet For'Art
 ## Membres
-- Tom
+- Tom Manlay
 - Thylia Brouillard
 - Alizee Roux
 - Lucas Wattin
@@ -16,6 +16,6 @@ Décrivez brièvement le travail réalisé et sa finalité.
 - Répartition des tâches :
 - Étapes principales :
  1. Idéation et conception.
- 2. Développement des fonctionnalités principales.
+ 2. Développement des fonctionnalités ( Front, Back et Base de donnée).
  3. Tests et débogage.
  4. Hébergement.
